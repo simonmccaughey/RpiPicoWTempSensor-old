@@ -1,0 +1,7 @@
+
+
+get latest micropython, and install it
+
+follow the instructions in hints/installation.py to install upip packages
+copy modules/*.py into device lib folder
+copy the remainder of the *.py files from this dir to the device root folder. Also copy config json and favicon file
